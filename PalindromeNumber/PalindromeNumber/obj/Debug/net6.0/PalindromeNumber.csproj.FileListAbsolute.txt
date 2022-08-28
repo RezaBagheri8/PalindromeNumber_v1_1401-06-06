@@ -1,0 +1,14 @@
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.exe
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.deps.json
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.runtimeconfig.json
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.dll
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\ref\PalindromeNumber.dll
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\bin\Debug\net6.0\PalindromeNumber.pdb
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfoInputs.cache
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.AssemblyInfo.cs
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.dll
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\ref\PalindromeNumber.dll
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.pdb
+D:\kia prjc\tamrin\PalindromeNumber\PalindromeNumber\obj\Debug\net6.0\PalindromeNumber.genruntimeconfig.cache
